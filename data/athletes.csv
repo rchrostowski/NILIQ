@@ -1,0 +1,6 @@
+athlete_id,name,sport,school,espn_url,reddit_query,wikipedia_title
+1,Caleb Williams,Football,USC,https://www.espn.com/college-football/player/_/id/4685720/caleb-williams,"Caleb Williams","Caleb_Williams_(American_football)"
+2,Caitlin Clark,Basketball,Iowa,https://www.espn.com/womens-college-basketball/player/_/id/4433143/caitlin-clark,"Caitlin Clark","Caitlin_Clark"
+3,Shedeur Sanders,Football,Colorado,https://www.espn.com/college-football/player/_/id/4685724/shedeur-sanders,"Shedeur Sanders","Shedeur_Sanders"
+4,Paige Bueckers,Basketball,UConn,https://www.espn.com/womens-college-basketball/player/_/id/4592609/paige-bueckers,"Paige Bueckers","Paige_Bueckers"
+5,Angel Reese,Basketball,LSU,https://www.espn.com/womens-college-basketball/player/_/id/4433577/angel-reese,"Angel Reese","Angel_Reese"
